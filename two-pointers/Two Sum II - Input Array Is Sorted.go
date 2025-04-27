@@ -1,4 +1,4 @@
-package main
+package twopointers
 
 func twoSum(numbers []int, target int) []int {
 	ans := []int{}

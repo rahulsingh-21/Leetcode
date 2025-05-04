@@ -1,4 +1,4 @@
-package math
+package main
 
 func checkPowersOfThree(n int) bool {
 	for n > 0 {

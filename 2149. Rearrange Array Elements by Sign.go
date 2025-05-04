@@ -1,4 +1,4 @@
-package twopointers
+package main
 
 func rearrangeArray(nums []int) []int {
 	ans := make([]int, len(nums))

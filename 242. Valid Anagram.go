@@ -1,4 +1,4 @@
-package hashtable
+package main
 
 func isAnagram(s string, t string) bool {
 	freq := make([]int, 26)

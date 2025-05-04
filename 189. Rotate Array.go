@@ -1,4 +1,4 @@
-package twopointers
+package main
 
 func rotate(nums []int, k int) {
 	k = k % len(nums)

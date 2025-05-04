@@ -1,4 +1,4 @@
-package math
+package main
 
 func coloredCells(n int) int64 {
 	var ans int64

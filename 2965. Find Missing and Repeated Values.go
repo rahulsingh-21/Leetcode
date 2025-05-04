@@ -1,4 +1,4 @@
-package hashtable
+package main
 
 func findMissingAndRepeatedValues(grid [][]int) []int {
 	m := make([]int, len(grid)*len(grid)+1)

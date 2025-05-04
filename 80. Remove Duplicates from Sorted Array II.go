@@ -1,4 +1,4 @@
-package twopointers
+package main
 
 func removeDuplicates2(nums []int) int {
 	ans, c := 0, 0

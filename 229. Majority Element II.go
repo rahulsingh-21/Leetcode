@@ -1,6 +1,6 @@
-package boyermoore
+package main
 
-func majorityElement(nums []int) []int {
+func majorityElementII(nums []int) []int {
 	n1, n2, c1, c2 := 0, 0, 0, 0
 
 	for _, val := range nums {

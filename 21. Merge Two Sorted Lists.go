@@ -1,4 +1,4 @@
-package linkedlist
+package main
 
 func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 	node := &ListNode{}

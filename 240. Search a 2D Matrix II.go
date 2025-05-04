@@ -1,4 +1,4 @@
-package matrix
+package main
 
 func searchMatrix(matrix [][]int, target int) bool {
 	n := len(matrix)

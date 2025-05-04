@@ -1,4 +1,4 @@
-package twopointers
+package main
 
 func longestPalindrome(s string) string {
 	ans := ""

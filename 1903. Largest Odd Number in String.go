@@ -1,4 +1,4 @@
-package math
+package main
 
 func largestOddNumber(num string) string {
 	// ans := ""

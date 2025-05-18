@@ -19,3 +19,7 @@ func twoSum(numbers []int, target int) []int {
 
 	return ans
 }
+
+export GIT_AUTHOR_DATE="2025-05-18T10:00:00"
+export GIT_COMMITTER_DATE="2025-05-18T10:00:00"
+git commit -m "509. Fibonacci Number"
